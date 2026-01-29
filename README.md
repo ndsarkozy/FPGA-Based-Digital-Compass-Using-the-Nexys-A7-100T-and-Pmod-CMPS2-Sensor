@@ -215,15 +215,12 @@ All testbenches are self-checking and report test statistics upon completion.
 - [ ] Integrate GPS module for true north correction
 - [ ] Implement data logging via UART
 
-## Authors
-
+## Engineers
+- **Nathan Sarkozy** - [ndsarkozy@gmail.com](mailto:ndsarkozy@gmail.com)
 - **Christian Vanegas** - [Christian.Vanegas02@student.csulb.edu](mailto:Christian.Vanegas02@student.csulb.edu)
-- **Nathan Sarkozy** - [Nathan.Sarkozy@student.csulb.edu](mailto:Nathan.Sarkozy@student.csulb.edu)
 - **Kaiya Hayashida** - [Kaiya.Hayashida@student.csulb.edu](mailto:Kaiya.Hayashida@student.csulb.edu)
 
-California State University, Long Beach  
-College of Engineering  
-CECS 201/301
+
 
 ## References
 
@@ -231,6 +228,5 @@ CECS 201/301
 2. [Pmod CMPS2 Reference Manual](https://digilent.com/reference/pmod/pmodcmps2/reference-manual) - Digilent Inc.
 3. [Nexys A7 Reference Manual](https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual) - Digilent Inc.
 
-## License
 
-This project was developed as part of coursework at California State University, Long Beach.
+
