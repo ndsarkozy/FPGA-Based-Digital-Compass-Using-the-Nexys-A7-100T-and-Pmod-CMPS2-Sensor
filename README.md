@@ -2,7 +2,6 @@
 
 A real-time digital compass implemented on the Nexys A7-100T FPGA board using the Pmod CMPS2 magnetometer sensor. The system calculates and displays heading angles relative to magnetic north on the onboard seven-segment display.
 
-![Running Board](docs/images/board_north.jpg)
 
 ## Overview
 
